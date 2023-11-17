@@ -1,0 +1,17 @@
+.
+├── cat1
+│   ├── cat2
+│   │   ├── cat3
+│   │   │   ├── cat6
+│   │   │   └── cat7
+│   │   └── cat5
+│   └── cat8
+├── dir
+│   └── current_date
+├── lab
+│   └── Lab
+│       ├── README.md
+│       └── lab1.txt
+└── lab2
+
+12 directories, 3 files
