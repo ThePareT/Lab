@@ -1,0 +1,4 @@
+total 8
+-rw-r--r-- 1 root root 2836 Nov 17 05:24 filelist1.txt
+-rw-r--r-- 1 root root    0 Nov 17 05:28 filelist2.txt
+-rw-r--r-- 1 root root  155 Nov 17 05:27 lab4.txt
