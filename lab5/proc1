@@ -1,0 +1,158 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 07:02 ?        00:00:01 /sbin/init
+root           2       0  0 07:02 ?        00:00:00 [kthreadd]
+root         140       1  0 07:02 ?        00:00:00 /usr/lib/systemd/systemd-journald
+root         180       1  0 07:02 ?        00:00:00 /usr/lib/systemd/systemd-udevd
+root         209       1  0 07:02 ?        00:00:00 /usr/lib/systemd/systemd-logind
+root         217       1  0 07:02 ?        00:00:00 login -- root
+root         255       1  0 07:02 ?        00:00:00 /usr/lib/systemd/systemd --user
+root           3       2  0 07:02 ?        00:00:00 [pool_workqueue_release]
+root           4       2  0 07:02 ?        00:00:00 [kworker/R-rcu_g]
+root           5       2  0 07:02 ?        00:00:00 [kworker/R-rcu_p]
+root           6       2  0 07:02 ?        00:00:00 [kworker/R-slub_]
+root           7       2  0 07:02 ?        00:00:00 [kworker/R-netns]
+root           8       2  0 07:02 ?        00:00:00 [kworker/0:0-events]
+root           9       2  0 07:02 ?        00:00:00 [kworker/0:1-events]
+root          10       2  0 07:02 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          11       2  0 07:02 ?        00:00:00 [kworker/u2:0-events_power_efficient]
+root          12       2  0 07:02 ?        00:00:00 [kworker/u2:1-events_unbound]
+root          13       2  0 07:02 ?        00:00:00 [kworker/R-mm_pe]
+root          14       2  0 07:02 ?        00:00:00 [rcu_tasks_kthread]
+root          15       2  0 07:02 ?        00:00:00 [rcu_tasks_rude_kthread]
+root          16       2  0 07:02 ?        00:00:00 [rcu_tasks_trace_kthread]
+root          17       2  0 07:02 ?        00:00:00 [ksoftirqd/0]
+root          18       2  0 07:02 ?        00:00:00 [rcu_preempt]
+root          19       2  0 07:02 ?        00:00:00 [rcub/0]
+root          20       2  0 07:02 ?        00:00:00 [migration/0]
+root          21       2  0 07:02 ?        00:00:00 [idle_inject/0]
+root          22       2  0 07:02 ?        00:00:00 [cpuhp/0]
+root          23       2  0 07:02 ?        00:00:00 [kdevtmpfs]
+root          24       2  0 07:02 ?        00:00:00 [kworker/R-inet_]
+root          25       2  0 07:02 ?        00:00:00 [kauditd]
+root          26       2  0 07:02 ?        00:00:00 [khungtaskd]
+root          27       2  0 07:02 ?        00:00:00 [oom_reaper]
+root          28       2  0 07:02 ?        00:00:00 [kworker/u2:2-events_unbound]
+root          29       2  0 07:02 ?        00:00:00 [kworker/R-write]
+root          30       2  0 07:02 ?        00:00:00 [kcompactd0]
+root          31       2  0 07:02 ?        00:00:00 [ksmd]
+root          32       2  0 07:02 ?        00:00:00 [khugepaged]
+root          33       2  0 07:02 ?        00:00:00 [kworker/R-kinte]
+root          34       2  0 07:02 ?        00:00:00 [kworker/R-kbloc]
+root          35       2  0 07:02 ?        00:00:00 [kworker/R-blkcg]
+root          36       2  0 07:02 ?        00:00:00 [kworker/R-tpm_d]
+root          37       2  0 07:02 ?        00:00:00 [kworker/R-ata_s]
+root          38       2  0 07:02 ?        00:00:00 [kworker/R-edac-]
+root          39       2  0 07:02 ?        00:00:00 [kworker/R-devfr]
+root          40       2  0 07:02 ?        00:00:00 [watchdogd]
+root          41       2  0 07:02 ?        00:00:00 [kworker/0:1H-kblockd]
+root          42       2  0 07:02 ?        00:00:00 [kswapd0]
+root          43       2  0 07:02 ?        00:00:00 [kworker/R-kthro]
+root          44       2  0 07:02 ?        00:00:00 [kworker/R-acpi_]
+root          45       2  0 07:02 ?        00:00:00 [scsi_eh_0]
+root          46       2  0 07:02 ?        00:00:00 [kworker/R-scsi_]
+root          47       2  0 07:02 ?        00:00:00 [kworker/u2:3-flush-8:0]
+root          48       2  0 07:02 ?        00:00:00 [kworker/R-mld]
+root          49       2  0 07:02 ?        00:00:00 [kworker/R-ipv6_]
+root          56       2  0 07:02 ?        00:00:00 [kworker/R-kstrp]
+root          57       2  0 07:02 ?        00:00:00 [kworker/R-zswap]
+root          58       2  0 07:02 ?        00:00:00 [kworker/u3:0]
+root          59       2  0 07:02 ?        00:00:00 [kworker/R-charg]
+root          60       2  0 07:02 ?        00:00:00 [kworker/0:2-events]
+root          89       2  0 07:02 ?        00:00:00 [scsi_eh_1]
+root          90       2  0 07:02 ?        00:00:00 [kworker/R-scsi_]
+root          91       2  0 07:02 ?        00:00:00 [scsi_eh_2]
+root          92       2  0 07:02 ?        00:00:00 [kworker/R-scsi_]
+root          93       2  0 07:02 ?        00:00:00 [irq/18-vmwgfx]
+root          94       2  0 07:02 ?        00:00:00 [kworker/R-ttm]
+root         105       2  0 07:02 ?        00:00:00 [jbd2/sda1-8]
+root         106       2  0 07:02 ?        00:00:00 [kworker/R-ext4-]
+root         145       2  0 07:02 ?        00:00:00 [kworker/0:3-cgwb_release]
+root         170       2  0 07:02 ?        00:00:00 [kworker/0:4-cgroup_destroy]
+root         181       2  0 07:02 ?        00:00:00 [psimon]
+root         203       2  0 07:02 ?        00:00:00 [kworker/R-crypt]
+root         228       2  0 07:02 ?        00:00:00 [kworker/R-cfg80]
+root         253       2  0 07:02 ?        00:00:00 [psimon]
+root         277       2  0 07:02 ?        00:00:00 [psimon]
+root         210     206  0 07:02 ?        00:00:00 dhcpcd: [privileged proxy]
+root         280     217  0 07:02 tty1     00:00:00 -bash
+root         256     255  0 07:02 ?        00:00:00 (sd-pam)
+root         297     280 50 07:07 tty1     00:00:00 ps -fu root --sort ppid
+    PID TTY          TIME CMD
+      1 ?        00:00:01 systemd
+      2 ?        00:00:00 kthreadd
+      3 ?        00:00:00 pool_workqueue_release
+      4 ?        00:00:00 kworker/R-rcu_g
+      5 ?        00:00:00 kworker/R-rcu_p
+      6 ?        00:00:00 kworker/R-slub_
+      7 ?        00:00:00 kworker/R-netns
+      8 ?        00:00:00 kworker/0:0-events
+      9 ?        00:00:00 kworker/0:1-events
+     10 ?        00:00:00 kworker/0:0H-events_highpri
+     11 ?        00:00:00 kworker/u2:0-events_power_efficient
+     12 ?        00:00:00 kworker/u2:1-events_unbound
+     13 ?        00:00:00 kworker/R-mm_pe
+     14 ?        00:00:00 rcu_tasks_kthread
+     15 ?        00:00:00 rcu_tasks_rude_kthread
+     16 ?        00:00:00 rcu_tasks_trace_kthread
+     17 ?        00:00:00 ksoftirqd/0
+     18 ?        00:00:00 rcu_preempt
+     19 ?        00:00:00 rcub/0
+     20 ?        00:00:00 migration/0
+     21 ?        00:00:00 idle_inject/0
+     22 ?        00:00:00 cpuhp/0
+     23 ?        00:00:00 kdevtmpfs
+     24 ?        00:00:00 kworker/R-inet_
+     25 ?        00:00:00 kauditd
+     26 ?        00:00:00 khungtaskd
+     27 ?        00:00:00 oom_reaper
+     28 ?        00:00:00 kworker/u2:2-events_power_efficient
+     29 ?        00:00:00 kworker/R-write
+     30 ?        00:00:00 kcompactd0
+     31 ?        00:00:00 ksmd
+     32 ?        00:00:00 khugepaged
+     33 ?        00:00:00 kworker/R-kinte
+     34 ?        00:00:00 kworker/R-kbloc
+     35 ?        00:00:00 kworker/R-blkcg
+     36 ?        00:00:00 kworker/R-tpm_d
+     37 ?        00:00:00 kworker/R-ata_s
+     38 ?        00:00:00 kworker/R-edac-
+     39 ?        00:00:00 kworker/R-devfr
+     40 ?        00:00:00 watchdogd
+     41 ?        00:00:00 kworker/0:1H-kblockd
+     42 ?        00:00:00 kswapd0
+     43 ?        00:00:00 kworker/R-kthro
+     44 ?        00:00:00 kworker/R-acpi_
+     45 ?        00:00:00 scsi_eh_0
+     46 ?        00:00:00 kworker/R-scsi_
+     47 ?        00:00:00 kworker/u2:3-flush-8:0
+     48 ?        00:00:00 kworker/R-mld
+     49 ?        00:00:00 kworker/R-ipv6_
+     56 ?        00:00:00 kworker/R-kstrp
+     57 ?        00:00:00 kworker/R-zswap
+     58 ?        00:00:00 kworker/u3:0
+     59 ?        00:00:00 kworker/R-charg
+     60 ?        00:00:00 kworker/0:2-events
+     89 ?        00:00:00 scsi_eh_1
+     90 ?        00:00:00 kworker/R-scsi_
+     91 ?        00:00:00 scsi_eh_2
+     92 ?        00:00:00 kworker/R-scsi_
+     93 ?        00:00:00 irq/18-vmwgfx
+     94 ?        00:00:00 kworker/R-ttm
+    105 ?        00:00:00 jbd2/sda1-8
+    106 ?        00:00:00 kworker/R-ext4-
+    140 ?        00:00:00 systemd-journal
+    145 ?        00:00:00 kworker/0:3-cgwb_release
+    170 ?        00:00:00 kworker/0:4-cgroup_destroy
+    180 ?        00:00:00 systemd-udevd
+    181 ?        00:00:00 psimon
+    203 ?        00:00:00 kworker/R-crypt
+    209 ?        00:00:00 systemd-logind
+    210 ?        00:00:00 dhcpcd
+    217 ?        00:00:00 login
+    228 ?        00:00:00 kworker/R-cfg80
+    253 ?        00:00:00 psimon
+    255 ?        00:00:00 systemd
+    256 ?        00:00:00 (sd-pam)
+    277 ?        00:00:00 psimon
+    280 tty1     00:00:00 bash
+    299 tty1     00:00:00 ps
